@@ -1,5 +1,1 @@
 
-# Hello
-# Biography
-# Interests
-# Education
