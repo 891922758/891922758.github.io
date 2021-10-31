@@ -1,4 +1,3 @@
-Hi
-
+# Hi
 # Biography
 # Education
